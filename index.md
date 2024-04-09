@@ -9,11 +9,19 @@
 
 ---
 **[Wikispeedia](/projects/isima/wikispeedia/wikispeedia.md)**  ~20h
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/wikispeedia/game.jpg?raw=true"/>
 
 ---
 **[First year project](/projects/isima/zz1/zz1.md)** ~60h
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/zz1/map_graphi.gif?raw=true"/>
+
+---
+**[GameJam 2023](/projects/gamejam/isima2023/isima2023.md)**
+<img src="images/gamejam2023/gamejam2023.png?raw=true"/>
+
+---
+**[GameJam 2022](/projects/gamejam/isima2022/isima2022.md)**
+<img src="images/gamejam2022/gameJam2022.gif?raw=true"/>
 
 ---
 
