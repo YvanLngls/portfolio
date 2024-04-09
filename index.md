@@ -4,11 +4,11 @@
 
 ### Projects 
 
-**[Uno Game](/projects/isima/uno_game/uno.md)** - ~30h
+**[Uno Game](/projects/isima/uno_game/uno.md)**  ~30h
 <img src="images/uno_isima/uno_game.png?raw=true"/>
 
 ---
-**[Wikispeedia](/projects/isima/wikispeedia/wikispeedia.md)** - ~20h
+**[Wikispeedia](/projects/isima/wikispeedia/wikispeedia.md)**  ~20h
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
