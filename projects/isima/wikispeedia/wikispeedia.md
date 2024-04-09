@@ -12,4 +12,6 @@ This project was made with G. Assailly, A. Mura and Y. Langlois.
 
 [Instructions](./wikispeedia_instructions.md)
 
+[Github](https://github.com/GuillaumeAssailly/ServiceWeb)
+
 *Date of the project: __2023__*
