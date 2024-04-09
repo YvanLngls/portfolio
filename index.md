@@ -4,8 +4,8 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page.md)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Uno](/sample_page.md)
+<img src="images/uno_isima/uno_game.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
