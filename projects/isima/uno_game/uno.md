@@ -6,9 +6,15 @@ Project of about 30 hours. The purpose of this project was to make a simple web 
 
 Technologies used :
 
--Typescript
--Angular
--Tailwindcss
--Colyseus
--CI/CD
--Git
+- Typescript
+- Angular
+- Tailwindcss
+- Colyseus
+- CI/CD
+- Git
+
+This project was made with T. Villepreux, M. Makkes, P. Chapuis and Y. Langlois.
+
+[Instructions](./uno_game_enonce.pdf)
+
+*Date of the project : __2023__*
