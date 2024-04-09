@@ -1,6 +1,6 @@
 ## GameJam 2022
 
-<img src="images/gamejam2022/gameJam2022.gif?raw=true"/>
+<img src="/portfolio/images/gamejam2022/gameJam2022.gif?raw=true"/>
 
 My first gameJam ! We did a little game in one weekend on the thema *AbyZZ* using the Unity game engine.
 
