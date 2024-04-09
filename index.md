@@ -17,7 +17,7 @@
 
 ---
 **[GameJam 2023](/gamejam/isima2023/isima2023.md)**
-<img src="images/gamejam2023/gamejam2023.png?raw=true" width="60%"/>
+<img src="images/gamejam2023/gamejam2023.png?raw=true" style="max-width: 60%"/>
 
 ---
 **[GameJam 2022](/gamejam/isima2022/isima2022.md)**
