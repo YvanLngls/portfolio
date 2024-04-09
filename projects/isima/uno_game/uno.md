@@ -4,7 +4,7 @@
 
 Project of about 30 hours. The purpose of this project was to make a simple web game using *Angular* for the frontend and *Colyseus* for the backend. We used *CI/CD* development techniques.
 
-Technologies used :
+Technologies used:
 
 - Typescript
 - Angular
