@@ -18,4 +18,4 @@ This project was made with G. Assailly, A. Mura and Y. Langlois.
 
 *Date of the project: __2023__*
 
-<img src="/portfolio/images/wikispeedia/admin.jpg?raw=true" width="400px"/>
+<img src="/portfolio/images/wikispeedia/admin.jpg?raw=true"/>

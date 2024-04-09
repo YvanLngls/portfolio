@@ -16,11 +16,11 @@
 <img src="images/zz1/map_graphi.gif?raw=true"/>
 
 ---
-**[GameJam 2023](/projects/gamejam/isima2023/isima2023.md)**
-<img src="images/gamejam2023/gamejam2023.png?raw=true"/>
+**[GameJam 2023](/gamejam/isima2023/isima2023.md)**
+<img src="images/gamejam2023/gamejam2023.png?raw=true" width="60%"/>
 
 ---
-**[GameJam 2022](/projects/gamejam/isima2022/isima2022.md)**
+**[GameJam 2022](/gamejam/isima2022/isima2022.md)**
 <img src="images/gamejam2022/gameJam2022.gif?raw=true"/>
 
 ---

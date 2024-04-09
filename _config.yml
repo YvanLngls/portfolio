@@ -3,8 +3,8 @@ logo: "/images/profile.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Student at ISIMA in Security and networks
   <br><br>
-  <br><br>
-  <a href="www.linkedin.com/in/yvan-langlois-626898246">LinkedIn</a> 
+  <a href="www.linkedin.com/in/yvan-langlois-626898246">LinkedIn</a>
+  <a href="mailto:yvan.langlois@etu.isima.fr">yvan.langlois@etu.isima.fr</a>
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
