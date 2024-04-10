@@ -1,7 +1,4 @@
-
----
-
-### Projects 
+## Projects 
 
 **[Uno Game](/projects/isima/uno_game/uno.md)**  ~30h
 
@@ -30,7 +27,7 @@ My first gamejam project made with *Unity engine*.
 
 ---
 
-### Education
+## Education
 
 2022-now: ISIMA - Clermont Auvergne INP\
 *Institut Supérieur d’Informatique, de Modélisation et de leurs Applications*\
@@ -45,13 +42,6 @@ Erasmus semester in polish university
 
 2020: Lycée Galilée\
 Baccalauréat S SI with honors
-
----
-### About me
-
-- C1 level english (fluent)
-- Handitutor
-- Treasurer of school's hacking club
 
 
 

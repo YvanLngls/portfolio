@@ -6,21 +6,16 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="mailto:yvan.langlois@etu.isima.fr">yvan.langlois@etu.isima.fr</a><br>
   <a href="https://github.com/YvanLngls/">Github</a><br>
   <a href="www.linkedin.com/in/yvan-langlois-626898246">LinkedIn</a>
-  <br><br>
-  <h3>Skills</h3>
-  <ol>
+  <br>
+  <ol style="list-style-type: disc">
     <li>French (native)</li>
     <li>English (C1 TOEIC level)</li>
-    <li>Programming
-      <ul>
-        <li>C, C++, C#, Java, Python</li>
-        <li>HTML, CSS, JavaScript, Typescript</li>
-        <li>Git</li>
-      </ul>
-    </li>
-    <li>Basic first aid certificate (PSC1)</li>
-    <li>Disability tutor</li>
+    <li>C, C++, C#, Java, Python</li>
+    <li>HTML, CSS, JavaScript, Typescript</li>
+    <li>Git</li>
     <li>Experience as treasurer of the school hacking club</li>
+    <li>Disability tutor</li>
+    <li>Basic first aid certificate (PSC1)</li>
   </ol>
 
 remote_theme: pages-themes/minimal@v0.2.0
