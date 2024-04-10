@@ -1,4 +1,3 @@
-## Portfolio
 
 ---
 
@@ -6,17 +5,28 @@
 
 **[Uno Game](/projects/isima/uno_game/uno.md)**  ~30h
 
+Uno game made with *Angular* and *Colyseus*.
+
 ---
 **[Wikispeedia](/projects/isima/wikispeedia/wikispeedia.md)**  ~20h
+
+The game of wikipedia : connect two wikipedia articles by following links between them !\
+This project used .NET and JWT.
 
 ---
 **[First year project](/projects/isima/zz1/zz1.md)** ~60h
 
+Artificial intelligence by rules learning made in C.
+
 ---
 **[GameJam 2023](/projects/gamejam/isima2023/isima2023.md)**
 
+Multiplayer game made in one week-end in Java.
+
 ---
 **[GameJam 2022](/projects/gamejam/isima2022/isima2022.md)**
+
+My first gamejam project made with Unity engine.
 
 ---
 
