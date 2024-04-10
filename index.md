@@ -1,6 +1,6 @@
 ## Projects 
 
-**[Uno Game](/projects/isima/uno_game/uno.html)**  ~30h
+**[Uno Game](/portfolio/projects/isima/uno_game/uno.html)**  ~30h
 
 Uno game made with *Angular* and *Colyseus*.
 
